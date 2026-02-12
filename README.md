@@ -1,4 +1,4 @@
-## Event Booking Backend (Laravel 11)
+## Event Booking Backend
 
 This is a production-grade **Event Booking System backend** built on **Laravel 11** and **PHP 8.2**.  
 It supports authentication with Sanctum, role-based access (admin, organizer, customer), event and ticket management, bookings, and payments.
