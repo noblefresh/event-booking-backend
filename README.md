@@ -8,7 +8,6 @@ It supports authentication with Sanctum, role-based access (admin, organizer, cu
 - **PHP 8.2+**
 - **Composer**
 - **MySQL** (or another database supported by Laravel)
-- **Node.js** (only required if you run the front-end tooling, not needed for API usage)
 
 ### Installation
 
